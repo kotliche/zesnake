@@ -1,7 +1,7 @@
 # zesnake
 !!!!!
 
-##game beta
+game beta
 
 **menu**
 - режим отшельньника
