@@ -12,3 +12,4 @@ game beta
 - выйди
 
 # Игра
+zasnake.c -> snake.exe
